@@ -12,6 +12,11 @@
 * The purpose of this repository is a form of checklist when we create a brand new repository
 * This repo is a living document that will grow and adapt over time
 
+<p align="center">
+  <img src="images/google_drive.png?raw=true" alt="Logotipo de 
+  Good practices on repository creation"/>
+</p>
+
 ### What is this repository for?
 
 + Quick summary
