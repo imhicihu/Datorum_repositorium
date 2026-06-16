@@ -13,6 +13,11 @@
 * El propósito de este repositorio es una forma de lista de control cuando creamos un nuevo repositorio
 * Este repositorio es un documento vivo que crecerá y se adaptará con el tiempo
 
+<p align="center">
+  <img src="images/google_drive.png?raw=true" alt="Logotipo de 
+  Good practices on repository creation"/>
+</p>
+
 ### ¿Cuál es la razón de ser de este repositorio? ###
 * Breve resumen
   - Una receta de tipo _lista_de_sistematización_ cuando se crea un repositorio
