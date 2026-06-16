@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo.png?raw=true" alt="Logotipo de 
+  <img src="images/datorum.png?raw=true" alt="Logotipo de 
   Good practices on repository creation"/>
 </p>
 
