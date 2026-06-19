@@ -46,11 +46,11 @@
      
 ### Issues
 
-* Check them on [here](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/issues)
+* Check them on [here](https://github.com/imhicihu/Datorum_repositorium/issues)
 
 ### Changelog
 
-* Please check the [Commits](https://github.com/imhicihu/Good-practices-on-repository-creation/commits/master) section for the current status
+* Please check the [Commits](https://github.com/imhicihu/Datorum_repositorium/commits/master) section for the current status
 
 ### Who do I talk to?
 
