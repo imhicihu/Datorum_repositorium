@@ -25,6 +25,7 @@
 ### Linked projects
 
 * [Database on mobile device](https://github.com/imhicihu/Database-on-mobile-device)
+  ![database](images/962695588-2019-05-10%2013.49.19.gif)
 
 ### How do I get set up?
 
@@ -32,7 +33,6 @@
     - Read our latest [checklist](Checklist_4_Bitbucket.md)
     - There are some [snippets](https://gist.github.com/imhicihu) created for the occasion
     - At some point, we will create a [milestone](https://jira.atlassian.com/browse/BCLOUD-11528). And then, enhance the walked road
-      ![repository.png](images/68747470733a2f2f6269746275636b65742e6f72672f7265706f2f656b79616545452f696d616765732f313637353835393637352d7265706f7369746f72792e706e67.png)
 + Dependencies
     - _The less, the better_. A personal [motto](https://dictionary.cambridge.org/es/diccionario/ingles/motto)
 + Deployment instructions
