@@ -24,7 +24,7 @@
 
 ### Linked projects
 
-* [Database on mobile devide](https://github.com/imhicihu/Database-on-mobile-device)
+* [Database on mobile device](https://github.com/imhicihu/Database-on-mobile-device)
 
 ### How do I get set up?
 
