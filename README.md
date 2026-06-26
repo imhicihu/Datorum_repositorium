@@ -24,15 +24,24 @@
 
 ### Linked projects
 
-* [Database on mobile device](https://github.com/imhicihu/Database-on-mobile-device)
-  ![database](images/962695588-2019-05-10%2013.49.19.gif)
-  > Database app created in FileMaker
+* [Terrae-database](https://github.com/imhicihu/Terrae-database)
+  ![MicroIsis in a virtual drive](images/4161797553-terrae-in-windows-environment.png)
+  > Rescue, mining & clean up of an ancient database made on MicroIsis circa mid-1990
 
 ---
 
-* [Terrae-database](https://github.com/imhicihu/Terrae-database)
-  ![MicroIsis in a virtual drive](images/1915817601-microisis_welcome_page.png)
-  > MicroIsis running in a virtual drive, fixing incompatibilities issues
+* [bibliographical-database-migration](https://github.com/imhicihu/bibliographical-database-migration)
+    ![MicroIsis in a virtual drive](images/1915817601-microisis_welcome_page.png)
+  > MicroIsis to Winisis
+
+---
+
+* [Database on mobile device](https://github.com/imhicihu/Database-on-mobile-device)
+  ![database](images/962695588-2019-05-10%2013.49.19.gif)
+  > Custom Database app created in FileMaker exclusively to collect and very data _in situ_ 
+
+---
+
 
 ### How do I get set up?
 
