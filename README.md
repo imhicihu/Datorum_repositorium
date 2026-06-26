@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="images/datorum.png?raw=true" alt="Logotipo de 
-  Good practices on repository creation"/>
+  <img src="images/datorum.png?raw=true" alt="Logotipo de Datorum repositorium"/>
 </p>
 
 ---
@@ -13,8 +12,7 @@
 * This repo is a living document that will grow and adapt over time
 
 <p align="center">
-  <img src="images/google_drive.png?raw=true" alt="Logotipo de 
-  Good practices on repository creation"/>
+  <img src="images/google_drive.png?raw=true" alt="Logotipo de Datorum repositorium"/>
 </p>
 
 ### What is this repository for?
@@ -25,13 +23,13 @@
 ### Linked projects
 
 * [Terrae-database](https://github.com/imhicihu/Terrae-database)
-  ![MicroIsis in a virtual drive](images/4161797553-terrae-in-windows-environment.png)
-  > Rescue, mining & clean up of an ancient database made on MicroIsis circa mid-1990
+  ![MicroIsis in a virtual drive](images/1915817601-microisis_welcome_page.png)
+  > Rescue, mining & clean up of an ancient database made on MicroIsis _circa_ mid-1990
 
----
+--- 
 
 * [bibliographical-database-migration](https://github.com/imhicihu/bibliographical-database-migration)
-    ![MicroIsis in a virtual drive](images/1915817601-microisis_welcome_page.png)
+    ![MicroIsis to WinIsis](images/4161797553-terrae-in-windows-environment.png)
   > MicroIsis to Winisis
 
 ---
