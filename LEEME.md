@@ -21,6 +21,28 @@
 ### ¿Cuál es la razón de ser de este repositorio? ###
 * Breve resumen
   - Una receta de tipo _lista_de_sistematización_ cuando se crea un repositorio
+ 
+### Repositorios relacionados
+
+* [Terrae-database](https://github.com/imhicihu/Terrae-database)
+  ![MicroIsis in a virtual drive](images/1915817601-microisis_welcome_page.png)
+  > Rescue, mining & clean up of an ancient database made on MicroIsis _circa_ mid-1990
+
+--- 
+
+* [bibliographical-database-migration](https://github.com/imhicihu/bibliographical-database-migration) and this legacy [repository](https://bitbucket.org/imhicihu/bibliographical-database-migration/src/master/)
+    ![MicroIsis to WinIsis](images/4161797553-terrae-in-windows-environment.png)
+  > MicroIsis to Winisis
+
+---
+
+* [Database on mobile device](https://github.com/imhicihu/Database-on-mobile-device)
+  ![database](images/962695588-2019-05-10%2013.49.19.gif)
+  > Custom Database app created in FileMaker exclusively to collect and very data _in situ_ 
+
+---
+
+* [Biblio-offline-searcher](https://github.com/imhicihu/Biblio-offline-searcher)
 
 ### ¿Cómo se configura?
 * Resumen de la configuración
