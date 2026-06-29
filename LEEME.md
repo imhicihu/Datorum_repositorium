@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="images/datorum.png?raw=true" alt="Logotipo de 
-  Good practices on repository creation"/>
+  <img src="images/3A8lRuQcVu25xwP4SiLhXw_l_EE4ui4R_C0IHwzUwhDjg.png?raw=true" alt="Logotipo de Datorum repositorium"/>
 </p>
 
 ---
