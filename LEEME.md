@@ -21,7 +21,7 @@
 * Breve resumen
   - Una receta de tipo _lista_de_sistematización_ cuando se crea un repositorio
  
-### Repositorios relacionados
+### Repositorios sobre tiene sus bases este repositorio
 
 * [Terrae-database](https://github.com/imhicihu/Terrae-database)
   ![MicroIsis in a virtual drive](images/1915817601-microisis_welcome_page.png)
