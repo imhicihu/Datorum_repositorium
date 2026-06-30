@@ -20,7 +20,7 @@
 + Quick summary
     * A _systematize-to_do-checklist_ recipe when a repository is created
 
-### Linked projects
+### Repositories on which this repository is based
 
 * [Terrae-database](https://github.com/imhicihu/Terrae-database)
   ![MicroIsis in a virtual drive](images/1915817601-microisis_welcome_page.png)
