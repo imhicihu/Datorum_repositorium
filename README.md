@@ -36,7 +36,7 @@
 
 * [Database on mobile device](https://github.com/imhicihu/Database-on-mobile-device)
   ![database](images/962695588-2019-05-10%2013.49.19.gif)
-  > Custom Database app created in FileMaker exclusively to collect and very data _in situ_ 
+  > Custom database app created exclusively in [FileMaker](https://github.com/imhicihu/Database-on-mobile-device/tree/master/downloads) to collect data _in situ_ given the building's structure, in which part of the library is currently located in the basement and another part on the 5th floor
 
 ---
 
