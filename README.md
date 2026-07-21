@@ -41,7 +41,8 @@
 ---
 
 * [Biblio-offline-searcher](https://github.com/imhicihu/Biblio-offline-searcher)
-
+  ![offline-searcher](images/clone.png)
+  > This repository shows an inner project, in-house solution to track the bibliographical assets of the Reinhardt collection
 
 ### How do I get set up?
 
