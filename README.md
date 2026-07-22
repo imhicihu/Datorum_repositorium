@@ -8,8 +8,9 @@
 ![internaluse-green](images/Badges/internal_use_Stable.png)
 
 # Rationale / [Fundamento](LEEME.md)
-* The purpose of this repository is a form of checklist when we create a brand new repository
-* This repo is a living document that will grow and adapt over time
+* An historical palimpsest of databases across times, technologies, workflows and methodologies: regular expressions, AppleScripts, javascripts, WinIsis scripts just to name a few. 
+* That implies a mix of regular expres
+* This repo is a living document of that times
 
 <p align="center">
   <img src="images/google_drive.png?raw=true" alt="Logotipo de Datorum repositorium"/>
