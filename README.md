@@ -8,9 +8,8 @@
 ![internaluse-green](images/Badges/internal_use_Stable.png)
 
 # Rationale / [Fundamento](LEEME.md)
-* An historical palimpsest of databases across times, technologies, workflows and methodologies: regular expressions, AppleScripts, javascripts, WinIsis scripts just to name a few. 
-* That implies a mix of regular expres
-* This repo is a living document of that times
+* An historical palimpsest of databases across times, technologies, workflows and methodologies: regular expressions, AppleScripts, javascripts, WinIsis scripts, `json` formatting... just to name a few. 
+* This repo is a living document that tell a history of that times
 
 <p align="center">
   <img src="images/google_drive.png?raw=true" alt="Logotipo de Datorum repositorium"/>
