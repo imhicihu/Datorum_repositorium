@@ -7,7 +7,7 @@
 ![stability-work_in_progress](images/Badges/stability-work_in_progress.png)
 ![internaluse-green](images/Badges/internal_use_Stable.png)
 
-# Rationale / [Fundamento](LEEME.md)
+## Rationale / [Fundamento](LEEME.md)
 * An historical palimpsest of databases across times, technologies, workflows and methodologies: regular expressions, AppleScripts, javascripts, WinIsis scripts, `json` formatting... just to name a few. 
 * This repo is a living document that tell a history of that times
 
