@@ -18,7 +18,7 @@
 ### What is this repository for?
 
 + Quick summary
-    *A palimpsest of databases across times, technologies and personas
+    * A palimpsest of databases across times, technologies and personas
 
 ### Repositories on which this repository is based
 
