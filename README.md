@@ -18,7 +18,7 @@
 ### What is this repository for?
 
 + Quick summary
-    * A _systematize-to_do-checklist_ recipe when a repository is created
+    *A palimpsest of databases across times, technologies and personas
 
 ### Repositories on which this repository is based
 
