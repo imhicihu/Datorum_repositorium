@@ -8,7 +8,7 @@
 ![internaluse-green](images/Badges/internal_use_Stable.png)
 
 ## Rationale / [Fundamento](LEEME.md)
-* An historical palimpsest of databases across times, technologies, workflows and methodologies: regular expressions, AppleScripts, javascripts, WinIsis scripts, `json` formatting... just to name a few. 
+* An historical palimpsest of databases across times, technologies, workflows and methodologies: regular expressions, [Bash scripts](https://github.com/imhicihu/Automation/tree/master/Homebrew_NPM), [Cron Jobs](https://github.com/imhicihu/Automation/tree/master/Cron_jobs), AppleScripts, javascripts, WinIsis scripts, `json` formatting... just to name a few. 
 * This repo is a living document that tell a history of that times
 
 <p align="center">
@@ -49,7 +49,6 @@
 + Summary of set up
     - Read our latest [checklist](Checklist_4_Bitbucket.md)
     - There are some [snippet](https://gist.github.com/imhicihu/48473f953fd17d1eba4aba2bdec023e5) created for the occasion
-    - At some point, we will create a [milestone](https://jira.atlassian.com/browse/BCLOUD-11528). And then, enhance the walked road
 + Dependencies
     - _The less, the better_. A personal [motto](https://dictionary.cambridge.org/es/diccionario/ingles/motto)
 + Deployment instructions
