@@ -3,7 +3,9 @@
 * Create a [Kaggle](https://www.kaggle.com/) account
 * Set up your Kaggle API keys [here](https://www.kaggle.com/settings/api)
 * Then, check [here](https://www.kaggle.com/docs/api#authentication)
-* Open your terminal.
+* Create a `folder`
+* [Download](https://www.kaggle.com/datasets/imhicihu/registros-bibliogrficos-imhicihu-circa-15-8-2023/) the database
+* Open your terminal
 * Follow this initial guidelines
 
 ```
@@ -28,3 +30,4 @@ df = kagglehub.load_dataset(
 
 print("First 5 records:", df.head())
 ```
+* Browse and dive into more than 22,000 bibliographical records
