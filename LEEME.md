@@ -9,8 +9,7 @@
 
 ## Fundamento / [Rationale](README.md)
 
-* El propósito de este repositorio es una forma de lista de control cuando creamos un nuevo repositorio
-* Este repositorio es un documento vivo que crecerá y se adaptará con el tiempo
+* Un palimpsesto histórico de bases de datos a lo largo del tiempo, las tecnologías, los flujos de trabajo y las metodologías: expresiones regulares, [scripts de Bash](https://github.com/imhicihu/Automation/tree/master/Homebrew_NPM), [tareas Cron](https://github.com/imhicihu/Automation/tree/master/Cron_jobs), [máquinas virtuales](https://github.com/imhicihu/Automation/blob/master/Virtualization/utm_first_steps_installation.md), AppleScripts, javascripts, scripts de WinIsis, formato `json`... por citar solo algunos ejemplos
 
 <p align="center">
   <img src="images/google_drive.png?raw=true" alt="Logotipo de 
