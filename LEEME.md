@@ -17,25 +17,25 @@
 
 ### ¿Cuál es la razón de ser de este repositorio? ###
 * Breve resumen
-  - Una receta de tipo _lista_de_sistematización_ cuando se crea un repositorio
+  - Un palimpsesto de bases de datos que abarca diferentes épocas, tecnologías y personas
  
 ### Repositorios sobre tiene sus bases este repositorio
 
 * [Terrae-database](https://github.com/imhicihu/Terrae-database)
   ![MicroIsis in a virtual drive](images/1915817601-microisis_welcome_page.png)
-  > Rescue, mining & clean up of an ancient database made on MicroIsis _circa_ mid-1990
+  > Rescate, extracción y limpieza de una antigua base de datos creada en MicroIsis, _aproximadamente_ a mediados de 1990
 
 --- 
 
 * [bibliographical-database-migration](https://github.com/imhicihu/bibliographical-database-migration) and this legacy [repository](https://bitbucket.org/imhicihu/bibliographical-database-migration/src/master/)
     ![MicroIsis to WinIsis](images/4161797553-terrae-in-windows-environment.png)
-  > MicroIsis to Winisis
+  > De MicroIsis a Winisis
 
 ---
 
 * [Database on mobile device](https://github.com/imhicihu/Database-on-mobile-device)
   ![database](images/962695588-2019-05-10%2013.49.19.gif)
-  > Custom Database app created in FileMaker exclusively to collect and very data _in situ_ 
+  > Aplicación de base de datos a medida creada exclusivamente en [FileMaker](https://github.com/imhicihu/Database-on-mobile-device/tree/master/downloads) para recopilar datos _in situ_, dada la estructura del edificio, en el que una parte de la biblioteca se encuentra actualmente en el sótano y otra parte en la 5.ª planta. 
 
 ---
 
