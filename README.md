@@ -76,6 +76,7 @@
 ### Legal
 
 * All trademarks are the property of their respective owners
+* This repo support the ![Open Data Access](images/555.png) initiative
 
 ### License
 
