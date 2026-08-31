@@ -48,7 +48,7 @@
 + Summary of set up
     - Read our latest [checklist](kaggle.md)
     - There are some [snippet](https://gist.github.com/imhicihu/48473f953fd17d1eba4aba2bdec023e5) created for the occasion
-    - There is a [bibliography](Bibliography.md) to gather information and best practices policies about data cleaning and formatting
+    - There is a [bibliography](bibliography.md) to gather information and best practices policies about data cleaning and formatting
 + Deployment instructions
     - No mandatory "_to follow_". It is a "_good practice_" exercise. Database can be transformed in a [webapp](https://github.com/imhicihu/Biblio-searcher_v2) or a [data visualization tool](https://github.com/imhicihu/Biblioteca-over-shiny-app). Imagination is the limit!
 
