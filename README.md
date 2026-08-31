@@ -80,4 +80,4 @@
 
 ### License
 
-* The content of this project itself is licensed under the ![MIT Licence](images/License/MIT_License.png)
+* The content of this project itself is licensed under the [Creative Commons v.1.0](LICENSE)
