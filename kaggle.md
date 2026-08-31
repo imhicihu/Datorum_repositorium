@@ -1,6 +1,10 @@
 ### Checklist
 
-* Create a [kaggle](https://www.kaggle.com/) account
+* Create a [Kaggle](https://www.kaggle.com/) account
+* Set up your Kaggle API keys [here](https://www.kaggle.com/settings/api)
+* Then, check [here](https://www.kaggle.com/docs/api#authentication)
+* Open your terminal.
+* Follow this initial guidelines
 
 ```
 # Install dependencies as needed:
