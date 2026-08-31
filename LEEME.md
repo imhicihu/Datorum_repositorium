@@ -27,7 +27,7 @@
 
 --- 
 
-* [bibliographical-database-migration](https://github.com/imhicihu/bibliographical-database-migration) and this legacy [repository](https://bitbucket.org/imhicihu/bibliographical-database-migration/src/master/)
+* [bibliographical-database-migration](https://github.com/imhicihu/bibliographical-database-migration) de este [repositorio] (https://bitbucket.org/imhicihu/bibliographical-database-migration/src/master/) heredado
     ![MicroIsis to WinIsis](images/4161797553-terrae-in-windows-environment.png)
   > De MicroIsis a Winisis
 
