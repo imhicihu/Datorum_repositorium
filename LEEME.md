@@ -56,13 +56,11 @@
   - [Bifurque](https://es.wikipedia.org/wiki/Bifurcaci%C3%B3n_(desarrollo_de_software)) este repositorio. Abra una [solicitud de mejora](https://www.wikidata.org/wiki/Q68712963) o simplemente comente el flujo de trabajo descrito. Comprueba nuestra [convención de código](Coding_convention.md)
 * Revisión de código fuente
   - No hay código. Sólo un ahorrador de tiempo, recordatorios y reglas de buenas prácticas para optimizar el _Tiempo_ (una creación humana)
-* Otras guías
-  - Este repositorio es una guía _masiva_ / [lista de comprobación](Checklist.md)
   - Existe una [convención de código](Coding_convention.md)
 
 ### Problemas
 
-* Compruébelos en [aquí](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/issues)
+* Compruébelos [aquí](https://github.com/imhicihu/Datorum_repositorium/issues)
 
 ### Registro de cambios
 
