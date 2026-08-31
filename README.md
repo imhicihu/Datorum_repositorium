@@ -9,7 +9,6 @@
 
 ## Rationale / [Fundamento](LEEME.md)
 * An historical palimpsest of databases across times, technologies, workflows and methodologies: regular expressions, [Bash scripts](https://github.com/imhicihu/Automation/tree/master/Homebrew_NPM), [Cron Jobs](https://github.com/imhicihu/Automation/tree/master/Cron_jobs), [virtual machines](https://github.com/imhicihu/Automation/blob/master/Virtualization/utm_first_steps_installation.md), AppleScripts, javascripts, WinIsis scripts, `json` formatting... just to name a few
-* This repo is a living document that tell a history of that times
 
 <p align="center">
   <img src="images/google_drive.png?raw=true" alt="Logotipo de Datorum repositorium"/>
@@ -49,10 +48,8 @@
 + Summary of set up
     - Read our latest [checklist](Checklist_4_Bitbucket.md)
     - There are some [snippet](https://gist.github.com/imhicihu/48473f953fd17d1eba4aba2bdec023e5) created for the occasion
-+ Dependencies
-    - _The less, the better_. A personal [motto](https://dictionary.cambridge.org/es/diccionario/ingles/motto)
 + Deployment instructions
-    - No mandatory "_to follow_". It is a "_good practice_" exercise and follow our needs
+    - No mandatory "_to follow_". It is a "_good practice_" exercise. Database can be transformed in a [webapp](https://github.com/imhicihu/Biblio-searcher_v2) or a [data visualization tool](https://github.com/imhicihu/Biblioteca-over-shiny-app). Imagination is the limit!
 
 ### Contribution guidelines
 
