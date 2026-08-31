@@ -27,7 +27,7 @@
 
 --- 
 
-* [bibliographical-database-migration](https://github.com/imhicihu/bibliographical-database-migration) de este [repositorio] (https://bitbucket.org/imhicihu/bibliographical-database-migration/src/master/) heredado
+* [bibliographical-database-migration](https://github.com/imhicihu/bibliographical-database-migration) de este [repositorio](https://bitbucket.org/imhicihu/bibliographical-database-migration/src/master/) heredado
     ![MicroIsis to WinIsis](images/4161797553-terrae-in-windows-environment.png)
   > De MicroIsis a Winisis
 
@@ -44,15 +44,12 @@
   > Este repositorio muestra un proyecto interno, una solución propia para realizar un seguimiento de los recursos bibliográficos de la colección Reinhardt
 
 ### ¿Cómo se configura?
-* Resumen de la configuración
-  - Lea nuestra última [lista de verificación](Checklist_4_Bitbucket.md)
-  - Estos son algunos [fragmentos de código](https://gist.github.com/imhicihu) creados para la ocasión
-  - En algún momento, crearemos un [hito](https://jira.atlassian.com/browse/BCLOUD-11528). Y luego, mejorar el camino andado
-  ![repository.png](images/68747470733a2f2f6269746275636b65742e6f72672f7265706f2f656b79616545452f696d616765732f313637353835393637352d7265706f7369746f72792e706e67.png)
-* Dependencias
-  - _Cuanto menos, mejor_. Un [lema](https://dictionary.cambridge.org/es/diccionario/ingles/motto) personal
-* Instrucciones de implementación
-  - No es un "_siga nuestras instrucciones_" obligatorio. Es un ejercicio de "_buenas prácticas_" y sigue nuestras necesidades
++ Resumen de la configuración
+    - Lee nuestra última [lista de comprobación](kaggle.md)
+    - Hay algunos [fragmentos de código](https://gist.github.com/imhicihu/48473f953fd17d1eba4aba2bdec023e5) creados para la ocasión
+    - Hay una [bibliografía](bibliography.md) para recopilar información y políticas de buenas prácticas sobre la limpieza y el formateo de datos
++ Instrucciones de implementación
+    - No hay nada obligatorio que "_se deba seguir_". Se trata de un ejercicio de "_buenas prácticas_". La base de datos se puede transformar en una [aplicación web](https://github.com/imhicihu/Biblio-searcher_v2) o en una [herramienta de visualización de datos](https://github.com/imhicihu/Biblioteca-over-shiny-app). ¡La imaginación es el límite!
 
 ### Lineamientos de contribuciones
 * Pruebas de escritura
