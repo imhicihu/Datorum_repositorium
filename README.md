@@ -48,7 +48,7 @@
 
 + Summary of set up
     - Read our latest [checklist](Checklist_4_Bitbucket.md)
-    - There are some [snippets](https://gist.github.com/imhicihu) created for the occasion
+    - There are some [snippet](https://gist.github.com/imhicihu/48473f953fd17d1eba4aba2bdec023e5) created for the occasion
     - At some point, we will create a [milestone](https://jira.atlassian.com/browse/BCLOUD-11528). And then, enhance the walked road
 + Dependencies
     - _The less, the better_. A personal [motto](https://dictionary.cambridge.org/es/diccionario/ingles/motto)
@@ -58,12 +58,7 @@
 ### Contribution guidelines
 
 * Writing tests
-     - Fork this repo. Open an issue-pull request or just comment the workflow described. Check our [code convention](Coding_convention.md)
-* Code review
-     - There is no code. Just a time-saver, reminders and rules of good practice to optimize _Time_ (a human creation)
-* Other guidelines
-     - This repo is a _massive_ guideline / [checklist](Checklist.md)
-     - There is a [code convention](Coding_convention.md)
+     - Fork this repo. Open an issue-pull request. Check our [code convention](Coding_convention.md)
      
 ### Issues
 
