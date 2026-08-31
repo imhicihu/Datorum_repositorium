@@ -79,4 +79,4 @@
 * Este repositorio apoya la iniciativa ![Acceso a datos abiertos](images/555.png)
 
 ### Licencia
-* El contenido de este proyecto está bajo una licencia ![MIT](images/License/MIT_License.png) 
+*  El contenido de este proyecto está sujeto bajo una licencia [Creative Commons v.1.0](LICENCIA)
