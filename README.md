@@ -52,6 +52,9 @@
 + Deployment instructions
     - No mandatory "_to follow_". It is a "_good practice_" exercise. Database can be transformed in a [webapp](https://github.com/imhicihu/Biblio-searcher_v2) or a [data visualization tool](https://github.com/imhicihu/Biblioteca-over-shiny-app). Imagination is the limit!
 
+### Related repositories
+* [Databases-repositories](https://github.com/imhicihu/Databases-repositories)
+  
 ### Contribution guidelines
 
 * Writing tests
