@@ -43,6 +43,9 @@
   ![offline-searcher](images/clone.png)
   > Este repositorio muestra un proyecto interno, una solución propia para realizar un seguimiento de los recursos bibliográficos de la colección Reinhardt
 
+### Repositorios relacionados
+* [Databases-repositories](https://github.com/imhicihu/Databases-repositories)
+  
 ### ¿Cómo se configura?
 + Resumen de la configuración
     - Lee nuestra última [lista de comprobación](kaggle.md)
