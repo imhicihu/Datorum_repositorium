@@ -40,6 +40,7 @@
 ---
 
 * [Biblio-offline-searcher](https://github.com/imhicihu/Biblio-offline-searcher)
+<BR></BR>
   ![offline-searcher](images/clone.png)
   > Este repositorio muestra un proyecto interno, una solución propia para realizar un seguimiento de los recursos bibliográficos de la colección Reinhardt
 
