@@ -46,6 +46,7 @@
 
 ### Repositorios relacionados
 * [Databases-repositories](https://github.com/imhicihu/Databases-repositories)
+* [Biblio-offline searcher](https://github.com/imhicihu/Biblio-offline-searcher)
   
 ### ¿Cómo se configura?
 + Resumen de la configuración
