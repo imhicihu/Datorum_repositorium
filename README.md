@@ -54,6 +54,7 @@
 
 ### Related repositories
 * [Databases-repositories](https://github.com/imhicihu/Databases-repositories)
+* [Biblio-offline searcher](https://github.com/imhicihu/Biblio-offline-searcher)
   
 ### Contribution guidelines
 
