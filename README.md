@@ -8,7 +8,7 @@
 ![internaluse-green](images/Badges/internal_use_Stable.png)
 
 ## Rationale / [Fundamento](LEEME.md)
-* An historical palimpsest of databases across times, technologies, workflows and methodologies: regular expressions, [Bash scripts](https://github.com/imhicihu/Automation/tree/master/Homebrew_NPM), [Cron Jobs](https://github.com/imhicihu/Automation/tree/master/Cron_jobs), [virtual machines](https://github.com/imhicihu/Automation/blob/master/Virtualization/utm_first_steps_installation.md), AppleScripts, javascripts, WinIsis scripts, `json` formatting... just to name a few
+* An historical palimpsest of databases across times, technologies, workflows and methodologies: [regular expressions](https://github.com/imhicihu/RegRex), [Bash scripts](https://github.com/imhicihu/Automation/tree/master/Homebrew_NPM), [Cron Jobs](https://github.com/imhicihu/Automation/tree/master/Cron_jobs), [virtual machines](https://github.com/imhicihu/Automation/blob/master/Virtualization/utm_first_steps_installation.md), AppleScripts, javascripts, WinIsis scripts, `json` formatting... just to name a few
 
 <p align="center">
   <img src="images/google_drive.png?raw=true" alt="Logotipo de Datorum repositorium"/>
@@ -55,6 +55,7 @@
 ### Related repositories
 * [Databases-repositories](https://github.com/imhicihu/Databases-repositories)
 * [Biblio-offline searcher](https://github.com/imhicihu/Biblio-offline-searcher)
+* [Regular expressions - RegRex](https://github.com/imhicihu/RegRex)
   
 ### Contribution guidelines
 
